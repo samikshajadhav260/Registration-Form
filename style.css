@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fffff0;  /* Light yellow color for the body */
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #a2c2e1;  /* Light blue color for the form box */
+  padding: 20px;  /* Added
+
+
